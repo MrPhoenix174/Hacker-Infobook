@@ -1,2 +1,2 @@
-# Hacker-Infobook
-My collection for infosec learning
+# Здесь я собираю бесплатные материалы и ресурсы для изучения ИБ. 
+##Недавно создал тгк где буду выкладывать большую часть найденного -> [ТГК](https://t.me/bocchithehack)
