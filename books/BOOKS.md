@@ -34,7 +34,7 @@
 * **Почему читать:** Книгу стоит прочитать ради практического освоения веб-хакинга и понимания логики взлома через реальные примеры и упражнения, подготовленные экспертами HackerOne.
 * Язык: RU
 
-[Скачать PDF](https://t.me/c/3759673051/21) | [Google Drive](https://drive.google.com/file/d/1jspaH83EPpHacvL-74vtGe8B4_6c4v37/view?usp=sharing)
+[Скачать PDF](./files/Ловушка_для_багов.pdf) | [Google Drive](https://drive.google.com/file/d/1jspaH83EPpHacvL-74vtGe8B4_6c4v37/view?usp=sharing)
 
 ---
 
@@ -80,7 +80,7 @@
 * Язык: RU
 
 
-[Скачать PDF](https://t.me/c/3759673051/23) | [Google Drive](https://drive.google.com/file/d/1q1Y8rfjTrusZyEpk6ql3lToY6jWQ4BvJ/view?usp=sharing)
+[Скачать PDF](./files/Аппаратный_хакинг_взлом_реальных_вещей_Джаспер_ван_Вуденберг_Колин.pdf) | [Google Drive](https://drive.google.com/file/d/1q1Y8rfjTrusZyEpk6ql3lToY6jWQ4BvJ/view?usp=sharing)
 
 ----
 
