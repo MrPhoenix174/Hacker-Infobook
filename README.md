@@ -5,7 +5,7 @@
 
 # Навигация
 
-* [Библиотека (Books)](books/books.md)
+* [Библиотека (Books)](books/BOOKS.md)
 
 
 
