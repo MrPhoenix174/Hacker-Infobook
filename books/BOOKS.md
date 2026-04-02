@@ -31,6 +31,40 @@
 * **Почему читать:** Учит понимать как работают программы и как их можно взломать
 * Язык: RU
 
-[Скачать PDF](./files/hacking_art_of_exploitation.pdf) | [Оригинал](https://nostarch.com/hacking2.htm)
+[Скачать PDF](./files/hacking_art_of_exploitation.pdf) | [Google Drive](https://drive.google.com/file/d/14k-238VE0WU6zxGmWn-DvPP8Y50C19Y-/view?usp=drive_link) | [Оригинал](https://nostarch.com/hacking2.htm)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="hacking"></a>
+## Сети (Networks)
+
+
+### Компьютерные сети (5-е издание)**
+![Art of Exploitation](https://img-url-here.com/miku_placeholder.png) 
+*(Сюда можно вставить обложку или тематический арт с Мику)*
+
+* **Автор:** Э. Таненбаум, Д. Уэзеролл
+* **О чем:** фундаментальное пособие, описывающее принципы работы сетей от физического уровня до прикладных протоколов.
+* **Почему читать:** Книга «Компьютерные сети» - это фундаментальный труд для любого, кто хочет понять, как функционирует цифровой мир.
+
+
+[Скачать PDF](./files/Э. Таненбаум , Д.Уэзеролл. Компьютерные сети.pdf) | [Google Drive](https://drive.google.com/file/d/1vYnUMQbqPP18HwtkPlhkYwt8BUi1odx9/view?usp=sharing)
 
 ---
