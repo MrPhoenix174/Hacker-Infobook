@@ -6,6 +6,7 @@
 # Навигация
 
 * [Библиотека (Books)](books/BOOKS.md)
+* [Курсы(ru/en)](courses/COURSES.md)
 
 
 
