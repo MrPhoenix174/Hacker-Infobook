@@ -7,6 +7,7 @@
 * [Фундамент](#fundamentals)
 * Основы и Взлом (Hacking)
 	* [Web](#web)
+	* [Скриптинг](#scripts)
 
 * [Реверс-инжиниринг и Pwn](#reverse) 
 * [Hardware/IoT](#hardware)
@@ -15,6 +16,7 @@
 * Программирование
 
 	* [C/C++](#CPP)
+	* [Ассемблер](#assembly)
 
 
 *************
@@ -60,6 +62,30 @@
 ---
 
 
+<a name="scipts"></a>
+## Скриптинг
+
+## **Black Hat Python: программирование для хакеров и пентестеров (2е издание)** 
+![Black Hat Python](./images/Black_Hat_Python.png)
+
+Автор: Джастин Зейтц, Тим Арнольд
+Язык: RU
+
+
+[Скачать PDF](./files/Black_Hat_Python_программирование_для_хакеров_и_пентестеров_Джастин.pdf) | [Google Drive](https://drive.google.com/file/d/1D_VszmlygUkS0DCSCyDvnJi-7JQGKM8C/view?usp=sharing)
+
+---
+
+## **Black Hat Go: Программирование для хакеров и пентестеров**
+![Black Hat Go](./images/Black_Hat_Go.jpeg)
+
+Автор: Стил Том, Паттен Крис, Коттманн Дэн
+Язык: RU
+
+[Скачать PDF](./files/Black_Hat_Go_Программирование_для_хакеров_и_пентестеров_Том_Стил.pdf)| [Google Drive](https://drive.google.com/file/d/12KgTEeT7-DdwF-LYkCnKc7p1g0j2FhqA/view?usp=sharing)
+
+---
+
 
 
 
@@ -85,8 +111,36 @@
 
 ---
 
+## **Reverse Engineering для начинающих**
+Автор: Денис Юричев
+Язык: RU
+
+[Скачать PDF](./files/Reverse_Engineering.pdf) | [Google Drive](https://drive.google.com/file/d/1Md80Kyk242K3GP6EJmzIrfaZ_GRntRzZ/view?usp=sharing)
+
+---
+
+## **Искусство дизассемблирования**
+![The Art of Disassembly](./images/The_Art_of_Disassembly.jpg)
+
+Автор: Крис Касперски
+Яызк: RU
+
+[Скачать PDF](./files/The_Art_of_Disassembly.pdf) | [Google Drive](https://drive.google.com/file/d/1urzcMRXXa2iYMWUlzpH_uefzSzfTPrJj/view?usp=sharing)
 
 
+
+
+
+
+
+
+
+
+
+---
+---
+---
+---
 <a name="hardware"></a>
 ## Hardware/IoT
 
