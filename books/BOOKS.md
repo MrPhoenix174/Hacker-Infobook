@@ -1,188 +1,34 @@
 # Библиотека | Library
-Тут можете найти архив книг по категориям. Книги будут помечены по языкам(ru/en). Полный список доступных книг будет постоянно расти и будет доступен в тгк
+Тут можете найти текущий список доступных книг по категориям. 
 Некоторые книги попадают под несколько категорий, будут в той в которую наиболее подходят.
 
 
 ###  Категории: 
-* [Фундамент](#fundamentals)
-* Основы и Взлом (Hacking)
-	* [Web](#web)
-	* [Скриптинг](#scripts)
-
-* [Реверс-инжиниринг и Pwn](#reverse) 
-* [Hardware/IoT](#hardware)
-* [Сети](#networks) 
-* [Linux и Администрирование](#linux)
-* Программирование
-
-	* [C/C++](#CPP)
-	* [Ассемблер](#assembly)
-
-
-*************
-*************
-*************
-*************
-<a name="fundamentals"></a> 
-
-## Фундамент
-
-## **Архитектура Компьютера**
-![computer architecture](./images/computer_architecture.jpg)
-* **Автор:** Э. Таненбаум, Т. Остин
-* **О чем:** Это фундаментальный учебник, в котором обьясняется структура ЭВМ, описывается как работают компоненты ПК на всех уровнях.
-* **Почему читать:** В этой книге понятно обьяснено как железо взаимодействует с программами.
-
-[Скачать PDF](./files/Архитектура_компьютера.pdf) | [Google Drive](https://drive.google.com/file/d/1JqL0Eal8iAdqC2JVJEy2YJp9dNcc2dQg/view?usp=sharing)
-
----
-
-
-
-
----
----
----
----
-<a name="web"></a> 
-## Web
-
-
-## **Ловушка для багов. Полевое руководство по веб-хакингу**
-![bug trap](./images/Ловушка_для_багов.jpg)
-
-* **Автор:** Питер Яворски
-* **О чем:** Книга расчитана на начинающих. Эта книга - это
-	практическое руководство по веб-хакингу и поиску уязвимостей (bug hunting), основанное на реальных отчетах исследователей безопасности.
-* **Почему читать:** Книгу стоит прочитать ради практического освоения веб-хакинга и понимания логики взлома через реальные примеры и упражнения, подготовленные экспертами HackerOne.
-* Язык: RU
-
-[Скачать PDF](./files/Ловушка_для_багов.pdf) | [Google Drive](https://drive.google.com/file/d/1jspaH83EPpHacvL-74vtGe8B4_6c4v37/view?usp=sharing)
-
----
-
-
-<a name="scipts"></a>
-## Скриптинг
-
-## **Black Hat Python: программирование для хакеров и пентестеров (2е издание)** 
-![Black Hat Python](./images/Black_Hat_Python.png)
-
-Автор: Джастин Зейтц, Тим Арнольд
-Язык: RU
-
-
-[Скачать PDF](./files/Black_Hat_Python_программирование_для_хакеров_и_пентестеров_Джастин.pdf) | [Google Drive](https://drive.google.com/file/d/1D_VszmlygUkS0DCSCyDvnJi-7JQGKM8C/view?usp=sharing)
-
----
-
-## **Black Hat Go: Программирование для хакеров и пентестеров**
-![Black Hat Go](./images/Black_Hat_Go.jpeg)
-
-Автор: Стил Том, Паттен Крис, Коттманн Дэн
-Язык: RU
-
-[Скачать PDF](./files/Black_Hat_Go_Программирование_для_хакеров_и_пентестеров_Том_Стил.pdf)| [Google Drive](https://drive.google.com/file/d/12KgTEeT7-DdwF-LYkCnKc7p1g0j2FhqA/view?usp=sharing)
-
----
-
-
-
-
-
-
----
----
----
----
-<a name="reverse"></a>
-##  Риверс и Pwn
-
-### **Хакинг: искусство эксплойта (2е издание)**
-![Art of Exploitation](./images/hackingartofexploitation.png) 
-
-
-* **Автор:** Джон Эриксон
-* **О чем:** Фундаментальная база по работе с памятью, переполнениями и сетевыми протоколами.
-* **Почему читать:** Учит понимать как работают программы и как их можно взломать
-* Язык: RU
-
-[Скачать PDF](./files/hacking_art_of_exploitation.pdf) | [Google Drive](https://drive.google.com/file/d/14k-238VE0WU6zxGmWn-DvPP8Y50C19Y-/view?usp=drive_link) | [Оригинал](https://nostarch.com/hacking2.htm)
-
----
-
-## **Reverse Engineering для начинающих**
-Автор: Денис Юричев
-Язык: RU
-
-[Скачать PDF](./files/Reverse_Engineering.pdf) | [Google Drive](https://drive.google.com/file/d/1Md80Kyk242K3GP6EJmzIrfaZ_GRntRzZ/view?usp=sharing)
-
----
-
-## **Искусство дизассемблирования**
-![The Art of Disassembly](./images/The_Art_of_Disassembly.jpg)
-
-Автор: Крис Касперски
-Яызк: RU
-
-[Скачать PDF](./files/The_Art_of_Disassembly.pdf) | [Google Drive](https://drive.google.com/file/d/1urzcMRXXa2iYMWUlzpH_uefzSzfTPrJj/view?usp=sharing)
-
-
-
-
-
-
-
-
-
-
-
----
----
----
----
-<a name="hardware"></a>
-## Hardware/IoT
-
-## **Аппаратный хакинг: взлом реальных вещей**
-
-![hardware hacking](./images/Аппаратный_хакинг.jpg)
-
-
-* **Автор:** Джаспер ван Вуденберг, Колин О'Флинн
-* **О чем:** В этой книге вас обучат атаковать встроенные системы с практическими примерами.
-* **Почему читать:** Эта книга - одна из лучших для тех кто хочет начать развиваться в сфере анализа встроенных систем и Iot.
-* Язык: RU
-
-
-[Скачать PDF](./files/Аппаратный_хакинг_взлом_реальных_вещей_Джаспер_ван_Вуденберг_Колин.pdf) | [Google Drive](https://drive.google.com/file/d/1q1Y8rfjTrusZyEpk6ql3lToY6jWQ4BvJ/view?usp=sharing)
+##  [Фундамент](./FUNDAMENTALS.md)
+* [**Архитектура Компьютера (Э. Таненбаум, Т. Остин, 6-е издание, RU)**](./FUNDAMENTALS.md#archcomutrer6_1)
 
 ----
-
-
-
-
-
-
-
-----
-----
-----
----
-
-<a name="hacking"></a>
-## Сети (Networks)
-
-
-### Компьютерные сети (5-е издание)
-![Computer Networks](./images/Computer_Networks_5.jpg)
-
-* **Автор:** Э. Таненбаум, Д. Уэзеролл
-* **О чем:** фундаментальное пособие, описывающее принципы работы сетей от физического уровня до прикладных протоколов.
-* **Почему читать:** Книга «Компьютерные сети» - это фундаментальный труд для любого, кто хочет понять, как функционирует цифровой мир.
-* Язык: RU
-
-
-[Скачать PDF](./files/Компьютерные_сети.pdf) | [Google Drive](https://drive.google.com/file/d/1vYnUMQbqPP18HwtkPlhkYwt8BUi1odx9/view?usp=sharing)
+## [WEB](./Web.md)
+* [**Ловушка для багов. Полевое руководство по веб-хакингу (Питер Яворски, RU)**](./Web#trapforbugs)
 
 ---
+## [Скриптнинг](./SCRIPTING.md)
+* [**Black Hat Python: программирование для хакеров и пентестеров (Джастин Зейтц, Тим Арнольд,2е издание, RU)**](./SCRIPTING.md#blackhatpython1)
+* [**Black Hat Go: программирование для хакеров и пентестеров (Стил Том, Паттен Крис, Коттманн Дэн, RU)**](./SCRIPTING.md#blackhatgo1)
+
+---
+## [Реверс-инжиниринг и Pwn](./REVERSE.md)
+* [**Хакинг: искусство эксплойта (Джон Эриксон, 2-е издание, RU)**](./REVERSE.md#hackingartofexploitation)
+* [**Reverse Engineering для начинающих (Денис Юричев, RU)**](./REVERSE#reverseengineeringforbeginers1)
+* [**Искусство дизассемблирования (Крис Касперски, RU)**](./REVERSE#artofdisassembly1)
+
+---
+
+## [Hardware/IoT](./HARDWARE.md)
+* [**Аппаратный хакинг: взлом реальных вещей (Джаспер ван Вуденберг, Колин О'Флинн, RU)**](./HARDWARE#hackingrealthings1)
+
+---
+
+## [Сети](./NETWORKS.md)
+* **[Компьютерные сети (Э. Таненбаум, Д. Уэзеролл, RU)](./NETWORKS.md#computernetworks1)**
+* 
