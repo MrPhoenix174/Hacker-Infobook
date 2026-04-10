@@ -23,11 +23,11 @@
 ---
 
 ## 3. Инструментарий (Must Have)
-*Полезные сервисы.
+*Полезные сервисы.*
 
-* 🔍 **[CyberChef](https://gchq.github.io/CyberChef/)** - "Швейцарский нож" для дешифровки, кодирования и анализа данных.
-* 📝 **[GTFOBins](https://gtfobins.github.io/)** - Список бинарников Linux, которые можно использовать для повышения привилегий (PrivEsc).
-* 🗺️ **[Exploit-DB](https://www.exploit-db.com/)** - База данных публичных эксплойтов.
+* **[CyberChef](https://gchq.github.io/CyberChef/)** - "Швейцарский нож" для дешифровки, кодирования и анализа данных.
+* **[GTFOBins](https://gtfobins.github.io/)** - Список бинарников Linux, которые можно использовать для повышения привилегий (PrivEsc).
+* **[Exploit-DB](https://www.exploit-db.com/)** - База данных публичных эксплойтов.
 
 ---
 
