@@ -11,8 +11,8 @@
 * [Reverse Engineering & Pwn](books/REVERSE.md) 
 * [Криптография](books/CRYPTOGRAPHY.md) 
 * [Hardware & IoT](books/HARDWARE.md)
-* [Социальная инженерия](./SOCIAL_ENGINEERING.md)
-* [Анонимность & OSINT & OPSEC](./OPSEC.md)
+* [Социальная инженерия](./books/SOCIAL_ENGINEERING.md)
+* [Анонимность & OSINT & OPSEC](./books/OPSEC.md)
 
 
 ## Обучение 
