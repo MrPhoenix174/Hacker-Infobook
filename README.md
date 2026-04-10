@@ -1,16 +1,19 @@
 # Здесь я собираю бесплатные материалы и ресурсы для изучения ИБ. 
-Недавно создал тгк где буду выкладывать большую часть найденного -> [ТГК](https://t.me/bocchithehack)<br>Этот проект в разработке, про обновления буду писать в тгк
-
+[**Обновления в Telegram:**](https://t.me/bocchithehack)
 ---
 
-# Навигация
+## Библиотека по категориям 
+* [Основы и Сети](books/FUNDAMENTALS.md)
+* [Hacking](books/HACKING.md)
+* [Web](books/Web.md) 
+* [Скриптинг](books/SCRIPTING.md)
+* [Reverse Engineering & Pwn](books/REVERSE.md) 
+* [Криптография](books/CRYPTOGRAPHY.md) 
+* [Hardware & IoT](books/HARDWARE.md)
 
-* [Библиотека (Books)](books/BOOKS.md)
-* [Курсы(ru/en)](courses/COURSES.md)
-
-
-
-
+## Обучение 
+* [YouTube курсы и плейлисты](courses/COURSES.md) 
+* [Полезные утилиты и ресурсы](RESOURCES.md)
 
 --- 
-> "The quieter you become, the more you are able to hear."
+
