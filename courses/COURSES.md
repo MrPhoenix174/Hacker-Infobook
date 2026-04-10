@@ -8,11 +8,11 @@
 ## 1. Комплексные программы (Red Team / Pentest Full)
 *Массивные подборки и многочасовые интенсивы, охватывающие несколько областей сразу.*
 
-| Название                                                               | Автор                         | Язык | Теги                                                                                                     | Ссылка                                                                                                              |
-| :--------------------------------------------------------------------- | :---------------------------- | :--: | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-| **26 курсов по ИБ**                                                    | XSS Rat                       | 🇬🇧 | `#Web` `#Network` `#Pwn` `#PrivEsc` `#Iot` `#Mobile` `#OSINT` `#Beginner` `#Advanced` `#General` `#Cert` | [TG](https://t.me/bocchithehack/9)                                                                                  |
-| **Full-Length Hacking Courses**                                        | The Cyber Mentor              | 🇬🇧 | `#Web` `#Network` `#Pwn` `#PrivEsc` `#Iot` `#Ai` `#OSINT` `#Beginner` `#General` `#ActiveDirectory`      | [Смотреть]([https://...](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&si=aEX_ROQPpRirLQyX)) |
-| **Полный учебный курс по этичному хакингу 2023 от нуля до мастерства** | Ethical Hacking for Beginners | 🇷🇺 | `#General` `#OSINT` `#ActiveDirectory` `#WiFi` `#Web` `#OSINT` `#FullCourse`                             | [Смотреть](https://youtube.com/playlist?list=PLrNhNTukZ_nF4GlvuniZJGC5cdfYDI0z7&si=BZh_gQvgRssQ03iV)                |
+| Название                                                               | Автор                         | Язык | Теги                                                                                                     | Ссылка                                                                                               |
+| :--------------------------------------------------------------------- | :---------------------------- | :--: | :------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| **26 курсов по ИБ**                                                    | XSS Rat                       | 🇬🇧 | `#Web` `#Network` `#Pwn` `#PrivEsc` `#Iot` `#Mobile` `#OSINT` `#Beginner` `#Advanced` `#General` `#Cert` | [TG](https://t.me/bocchithehack/9)                                                                   |
+| **Full-Length Hacking Courses**                                        | The Cyber Mentor              | 🇬🇧 | `#Web` `#Network` `#Pwn` `#PrivEsc` `#Iot` `#Ai` `#OSINT` `#Beginner` `#General` `#ActiveDirectory`      | [Смотреть](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&si=KCh77HDCg5sgLK14) |
+| **Полный учебный курс по этичному хакингу 2023 от нуля до мастерства** | Ethical Hacking for Beginners | 🇷🇺 | `#General` `#OSINT` `#ActiveDirectory` `#WiFi` `#Web` `#OSINT` `#FullCourse`                             | [Смотреть](https://youtube.com/playlist?list=PLrNhNTukZ_nF4GlvuniZJGC5cdfYDI0z7&si=BZh_gQvgRssQ03iV) |
 
 ## 2. Фундамент и Введение в ИБ
 *Курсы для тех, кто только начинает свой путь.*
@@ -48,9 +48,9 @@
 ## 5. WiFi & Беспроводные сети
 Настройка, администрирование и взлом беспроводных сетей
 
-| Название                                        | Автор / Канал | Язык | Теги                | Ссылка                                        |
-| :---------------------------------------------- | :------------ | :--: | :------------------ | :-------------------------------------------- |
-| **Wifi Pentesting \| Взлом Wifi: Новый взгляд** | -             | 🇷🇺 | `#Wireless` `#WiFi` | [Скачать в TG](https://t.me/bocchithehack/18) |
+| Название                                        | Автор / Канал | Язык | Теги                | Ссылка                                                                                                                                                                                  |
+| :---------------------------------------------- | :------------ | :--: | :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Wifi Pentesting \| Взлом Wifi: Новый взгляд** | -             | 🇷🇺 | `#Wireless` `#WiFi` | [Скачать]([https://drive.google.com/drive/folders/1n_pqCdqnjo_A22OvrmedFdIyJoaCmzRb?usp=sharing](https://drive.google.com/drive/folders/1pZ0RGL5ULxNXhbbjvJ6jDmw6Pqkh_VwR?usp=sharing)) |
 
 
 
@@ -61,6 +61,6 @@
 ## 7. Интерактивные лаборатории (Практика)
 **Для отработки навыков**
 
-* **[TryHackMe](https://tryhackme.com/)** — Идеально для старта, есть готовые пути обучения (Roadmaps). `#Practice` `#Beginner`
-* **[Hack The Box](https://www.hackthebox.com/)** — Более продвинутые машины для пентеста. `#Hard` `#Lab`
-* **[Root-Me](https://www.root-me.org/)** — Огромное количество челленджей на любые темы. `#CTF` `#AllLevels`
+* **[TryHackMe](https://tryhackme.com/)** - Идеально для старта, есть готовые пути обучения. `#Practice` `#Beginner`
+* **[Hack The Box](https://www.hackthebox.com/)** - Более продвинутые машины для пентеста. `#Hard` `#Lab`
+* **[Root-Me](https://www.root-me.org/)** - Огромное количество челленджей на любые темы. `#CTF` `#AllLevels`
