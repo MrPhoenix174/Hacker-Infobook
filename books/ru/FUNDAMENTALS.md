@@ -2,10 +2,10 @@
 
 <a name="archcomutrer6_1"></a> 
 ## **Архитектура Компьютера**
-![computer architecture](./images/computer_architecture.jpg)
+<img src="./images/computer_architecture.jpg" alt="Компьютерные сети" width="370">
 * **Автор:** Э. Таненбаум, Т. Остин
 * **О чем:** Это фундаментальный учебник, в котором обьясняется структура ЭВМ, описывается как работают компоненты ПК на всех уровнях.
-* **Почему читать:** В этой книге понятно обьяснено как железо взаимодействует с программами.
+
 
 [Скачать PDF](./files/Архитектура_компьютера.pdf) | [Google Drive](https://drive.google.com/file/d/1JqL0Eal8iAdqC2JVJEy2YJp9dNcc2dQg/view?usp=sharing)
 

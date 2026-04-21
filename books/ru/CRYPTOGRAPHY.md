@@ -10,7 +10,7 @@
 <a name="book_of_ciphers"></a>
 ## **Книга шифров: Тайная история шифров и их расшифровки**
 
-![bookofciphers](./images/book_of_ciphers.png)
+<img alt="Компьютерные сети" width="370"src="./images/book_of_ciphers.png">
 Автор: Саймон Сингх
 Язык: RU
 [Скачать PDF](./files/book_of_ciphers.pdf) | [Google Drive](https://drive.google.com/file/d/169APDNgWkgilLMwI27RdA2h4RoSaYVoB/view?usp=sharing)

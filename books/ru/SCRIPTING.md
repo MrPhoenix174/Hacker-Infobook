@@ -2,7 +2,7 @@
 
 <a name="blackhatpython1"></a>
 ## Black Hat Python: программирование для хакеров и пентестеров
-![Black Hat Python](./images/Black_Hat_Python.png)
+<img src="./images/Black_Hat_Python.png" width="370">
 
 Автор: Джастин Зейтц, Тим Арнольд
 Язык: RU
@@ -15,7 +15,7 @@
 
 <a name="blackhatgo1"</a>
 ## **Black Hat Go: Программирование для хакеров и пентестеров**
-![Black Hat Go](./images/Black_Hat_Go.jpeg)
+<img src="./images/Black_Hat_Go.jpeg" width=370>
 
 Автор: Стил Том, Паттен Крис, Коттманн Дэн
 Язык: RU

@@ -2,7 +2,7 @@
 
 <a name="ethicalhackingpracticalguidehack1"></a>
 ## **Этичный хакинг: практическое руководство по взлому**
-![](./images/ethicalhackingpracticalguidehack1.png)
+<img alt="Компьютерные сети" width="370"src="./images/ethicalhackingpracticalguidehack1.png">
 
 Автор: Дэниел Г. Грэм
 Язык: RU
@@ -12,7 +12,7 @@
 
 <a name="Как_стать_хакером_Сборник_практических_сценариев_позволяющих_понять"></a>
 ## **Как стать хакером: Сборник практических сценариев, позволяющих понять, как рассуждает злоумышленник**
-![howtobecomehacker1](./images/Как_стать_хакером_Сборник_практических_сценариев_позволяющих_понять.jpg)
+<img alt="Компьютерные сети" width="370"src="./images/Как_стать_хакером_Сборник_практических_сценариев_позволяющих_понять.jpg">
 Автор: Эдриан Прутяну
 Язык: RU
 [Скачать PDF](./files/Как_стать_хакером_Сборник_практических_сценариев_позволяющих_понять.pdf) | [Google Drive](https://drive.google.com/file/d/1UhGAeAu_2mG23Pq0VVRMVixY2v0Kmn7U/view?usp=sharing)

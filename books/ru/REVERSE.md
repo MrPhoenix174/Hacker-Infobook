@@ -3,13 +3,11 @@
 
 <a name="hackingartofexploitation"></a>
 ### **Хакинг: искусство эксплойта (2е издание)**
-![Art of Exploitation](./images/hackingartofexploitation.png) 
-
+<img src="./images/hackingartofexploitation.png" width=370> 
 
 * **Автор:** Джон Эриксон
 * **О чем:** Фундаментальная база по работе с памятью, переполнениями и сетевыми протоколами.
 * **Почему читать:** Учит понимать как работают программы и как их можно взломать
-* Язык: RU
 
 [Скачать PDF](./files/hacking_art_of_exploitation.pdf) | [Google Drive](https://drive.google.com/file/d/14k-238VE0WU6zxGmWn-DvPP8Y50C19Y-/view?usp=drive_link) | [Оригинал](https://nostarch.com/hacking2.htm)
 
@@ -24,10 +22,9 @@
 ---
 <a name="artofdisassembly1"></a>
 ## **Искусство дизассемблирования**
-![The Art of Disassembly](./images/The_Art_of_Disassembly.jpg)
+<img src="./images/The_Art_of_Disassembly.jpg" width=370>
 
 Автор: Крис Касперски
-Яызк: RU
 
 [Скачать PDF](./files/The_Art_of_Disassembly.pdf) | [Google Drive](https://drive.google.com/file/d/1urzcMRXXa2iYMWUlzpH_uefzSzfTPrJj/view?usp=sharing)
 

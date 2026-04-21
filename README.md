@@ -3,21 +3,24 @@
 ---
 ---
 
-## Библиотека по категориям 
-* [Основы и Сети](books/FUNDAMENTALS.md)
-* [Hacking](books/HACKING.md)
-* [Web](books/Web.md) 
-* [Скриптинг](books/SCRIPTING.md)
-* [Reverse Engineering & Pwn](books/REVERSE.md) 
-* [Криптография](books/CRYPTOGRAPHY.md) 
-* [Hardware & IoT](books/HARDWARE.md)
-* [Социальная инженерия](./books/SOCIAL_ENGINEERING.md)
-* [Анонимность & OSINT & OPSEC](./books/OPSEC.md)
+## Библиотека
+
+* [**Книги на Русском**](./books/BOOKS-RU.md)
+* [**Books in English**](./books/BOOKS-EN.md)
+
+---
+# Обучение 
+## Курсы и плейлисты 
+* [**Курсы и плейлисты на YouTube (RU/EN)**](./COURSES/YOUTUBE.md)
+* [**Сливы/Архивы (RU/EN)**](./courses/DOWNLOADABLE.md)
+* [**Обучение на других платформах**](./courses/PLATFORMS.md)
 
 
-## Обучение 
-* [Курсы и плейлисты](courses/COURSES.md) 
-* [Полезные утилиты и ресурсы](RESOURCES.md)
+## [Полезные ресурсы](./resources/resources.md)
+
+## [Tools & Chetsheets](./resources/TOOLS.md)
+
+
 
 --- 
 
