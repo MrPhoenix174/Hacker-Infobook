@@ -6,6 +6,7 @@
 * [Mobile](#mobile)
 
 ---
+<br>
 
 <a name="Сборники"></a>
 # Комплексные программы (Red Team / Pentest)
@@ -28,12 +29,14 @@
 
 [Смотреть плейлист](https://youtube.com/playlist?list=PLFOJ_XqzVbLMshj5eG3oFS6LP5K6I2wLE&si=1PSoTx39PKDYm-2p) 
 
+<br>
 
 
 
 ---
 ---
 
+<br>
 
 
 <a name="основы"></a>
@@ -51,12 +54,13 @@
 
 
 
-
+<br>
 
 
 ---
 ---
 
+<br>
 
 <a name="основы"></a>
 # WEB
@@ -75,6 +79,7 @@
 ---
 ---
 
+<br>
 
 
 <a name="reverse"></a>
@@ -108,4 +113,21 @@
 ---
 ---
 
+<br>
 
+<a name="wireless"></a>
+# WiFi & Беспроводные сети
+
+<a name="aircrack-ng1"></a>
+### **Wifi Pentesting | Взлом Wifi: Новый взгляд**
+<img src="./images/aircrack-ng1.png" alt="Preview" width=750>
+
+
+* **Язык:** EN
+* **Описание:** Набор видео по обучению  атак на WiFi
+
+[**Смотреть плейлист**](https://youtube.com/playlist?list=PLfWBR1mULstISgM9u7oi6QAQu9_x5jBt2&si=3rLrk7n-0WXvC684)
+
+---
+
+---
