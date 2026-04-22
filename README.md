@@ -11,7 +11,7 @@
 ---
 # Обучение 
 ## Курсы и плейлисты 
-* [**Курсы и плейлисты на YouTube (RU/EN)**](./COURSES/YOUTUBE.md)
+* [**Курсы и плейлисты на YouTube (RU/EN)**](./courses/YOUTUBE.md)
 * [**Сливы/Архивы (RU/EN)**](./courses/DOWNLOADABLE.md)
 * [**Обучение на других платформах**](./courses/PLATFORMS.md)
 
