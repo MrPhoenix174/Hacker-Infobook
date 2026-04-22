@@ -110,17 +110,6 @@
 
 
 
-<a name="pwnseasonspbctf1"></a>
-### **Сезон пывна: 4.10.2020 — 25.04.2021**
-<img src="./images/pwnseasonspbctf1.png" alt="Preview" height="350">
-
-* **Автор:** SpbCTF
-* **Язык:** RU
-
-[Смотреть плейлист](https://youtube.com/playlist?list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm&si=XnSPH5OQCJEi4rxw)
-
-
-<br>
 
 <a name="reverseseasonspbctf1"></a>
 ### **Сезон ревёрса: 26.02.2017 — 14.05.2017**
@@ -129,7 +118,21 @@
 * **Автор:** SpbCTF
 * **Язык:** RU
 
-[Смотреть плейлист](https://youtube.com/playlist?list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk&si=w_zxB08i1UZI0mTS)
+[Смотреть плейлист](https://youtube.com/playlist?list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk&si=w_zxB08i1UZI0mTS) | [**Сайт (больше инфы + таски)**](https://rev-kids20.forkbomb.ru/tasks)
+
+<a name="pwnseasonspbctf1"></a>
+### **Сезон пывна: 4.10.2020 — 25.04.2021**
+<img src="./images/pwnseasonspbctf1.png" alt="Preview" height="350">
+
+* **Автор:** SpbCTF
+* **Язык:** RU
+
+[Смотреть плейлист](https://youtube.com/playlist?list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm&si=XnSPH5OQCJEi4rxw) | [**Сайт (больше инфы + таски)](https://pwn.spbctf.ru/tasks)
+
+
+<br>
+
+
 
 
 <a name="reverseeng1"></a>
