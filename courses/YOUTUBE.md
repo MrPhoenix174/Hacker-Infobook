@@ -110,6 +110,37 @@
 
 
 
+<a name="pwnseasonspbctf1"></a>
+### **Сезон пывна: 4.10.2020 — 25.04.2021**
+<img src="./images/pwnseasonspbctf1.png" alt="Preview" height="350">
+
+* **Автор:** SpbCTF
+* **Язык:** RU
+
+[Смотреть плейлист](https://youtube.com/playlist?list=PLLguubeCGWoY12PWrD-oV3nZg3sjJNKxm&si=XnSPH5OQCJEi4rxw)
+
+
+<br>
+
+<a name="reverseseasonspbctf1"></a>
+### **Сезон ревёрса: 26.02.2017 — 14.05.2017**
+<img src="./images/reverseseasonspbctf1.png" alt="Preview" height="350">
+
+* **Автор:** SpbCTF
+* **Язык:** RU
+
+[Смотреть плейлист](https://youtube.com/playlist?list=PLLguubeCGWoZIZBfJ1ZfJytjHLZyFFrMk&si=w_zxB08i1UZI0mTS)
+
+
+<a name="reverseeng1"></a>
+### **Reverse Engineering**
+<img src="./images/reverseeng1.png" alt="Preview" height="350">
+
+* **Автор:** Path Cybersec \[Slava Moskvin\]
+* **Язык:** RU
+
+
+
 ---
 ---
 
@@ -119,15 +150,24 @@
 # WiFi & Беспроводные сети
 
 <a name="aircrack-ng1"></a>
-### **Wifi Pentesting | Взлом Wifi: Новый взгляд**
+### **aircrack NG**
 <img src="./images/aircrack-ng1.png" alt="Preview" width=750>
-
 
 * **Язык:** EN
 * **Описание:** Набор видео по обучению  атак на WiFi
 
 [**Смотреть плейлист**](https://youtube.com/playlist?list=PLfWBR1mULstISgM9u7oi6QAQu9_x5jBt2&si=3rLrk7n-0WXvC684)
 
----
 
+<a name="wardriving"></a>
+### **WARDRIVING**
+<img src="./images/wardriving.png" alt="Preview" width=370>
+* **Автор:** unit3301
+* **Язык:** RU
+* **Описание:** Атаки на WiFI, создание девайсов
+
+[**Смотреть плейлист**](https://youtube.com/playlist?list=PLDvjN80i7UFHdNrJcKR1oCPi13NRS6HZw&si=z0owa5LNqacy6yx-)
+
+
+---
 ---
