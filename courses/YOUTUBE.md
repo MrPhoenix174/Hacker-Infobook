@@ -20,6 +20,19 @@
 
 [Смотреть плейлист](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&si=RC7wYDvLaVmHRp0l) 
 
+<a name="kalilinuxfreecoursecyberguard"></a>
+### Kali Linux Free Course - Ethical Hacking Using Kali Linux
+<img src="./images/kalilinuxfreecoursecyberguard.png" alt="Preview" height="350">
+
+* **Описание:** Хороший набор видео на разные темы, ориентирован на практику. !! Курс не на en, включите субтитры !!
+
+[Смотреть плейлист](https://youtube.com/playlist?list=PLFOJ_XqzVbLMshj5eG3oFS6LP5K6I2wLE&si=1PSoTx39PKDYm-2p) 
+
+
+
+
+---
+
 ---
 
 
@@ -37,7 +50,19 @@
 
 [Смотреть плейлист](https://youtube.com/playlist?list=PLrNhNTukZ_nF4GlvuniZJGC5cdfYDI0z7&si=9Vdde4QcS_Gqj7kJ) 
 
+<a name="fullhackcoursebegtoprokali"></a>
+### Полный курс по этичному взлому - от начального до продвинутого уровня kali linux
+<img src="./images/fullhackcoursebegtoprokali.png" alt="Preview" height="350">
+
+* **Язык:** RU
+* **Описание:** Это перевод курса с использованием нейросетей, курс староват, но смотреть стоит, мне понравился подход к автору, все знания практико-ориентированны. Например, автор научит делать MITM-атаки, заходить в дарк, расскажет про кейлогеры
+
+[Смотреть плейлист](https://youtube.com/playlist?list=PLPxEwGlYuJQlGUzoAoZsNlSHjIgRUe9dU&si=TwbDOgdazImg15aN) 
+
 
 
 
 ---
+
+---
+
