@@ -7,12 +7,16 @@
 * [WiFi & Беспроводные сети](#wireless)
 
 ---
+
+
+
+
 <a name="Сборники"></a>
 # Комплексные программы (Red Team / Pentest)
 
 <a name="26-XSS-RAT"></a>
 ### **26 Курсов от XSS Rat**
-<img src="./images/26_xss_rat.jpg" alt="Preview" width="400">
+<img src="./images/26_xss_rat.jpg" alt="Preview" width="400">---
 
 * **Автор:** XSS Rat
 * **Язык:** 🇬🇧 (English)
@@ -21,6 +25,8 @@
 [**Скачать в TG (40 GB)**](https://t.me/bocchithehack/9)
 
 ---
+---
+
 
 <a name="web"></a>
 # WEB
@@ -35,6 +41,32 @@
 
 [**Скачать (2.6 gb)**](https://drive.google.com/drive/folders/1_hvhBpWn229R_nKkW59onFieUSeH6RVo?usp=sharing)
 
+---
+----
+
+
+<a name="reverse"></a>
+# Reverse & pwn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ---
 
 
@@ -53,3 +85,4 @@
 
 ---
 
+---
