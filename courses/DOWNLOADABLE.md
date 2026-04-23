@@ -76,7 +76,7 @@
 # WiFi & Беспроводные сети
 
 <a name="wifipentesting2021"></a>
-### **Wifi Pentesting | Взлом Wifi: Новый взгляд**
+### **Wifi Pentesting | Aудит Wifi: Новый взгляд**
 <img src="./images/Wifi_Pentesting_2021.png" alt="Preview" height="350">
 
 

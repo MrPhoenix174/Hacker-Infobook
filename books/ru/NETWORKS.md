@@ -1,4 +1,12 @@
 
+
+<a name="compnetworksdown"></a>
+### Компьютерные сети. Нисходящий подход 
+<img src="./images/compnetworksdown.jpg" alt="Preview" width="370">
+
+* **Автор:** Джеймс Куроуз, Кит Росс
+[Скачать](https://drive.google.com/file/d/1G3LxK8b9NIcxPdrT-xoX26JX4ZnBwu6W/view?usp=sharing)
+
 <a name="computernetworks1"></a>
 ### Компьютерные сети (RU)
 

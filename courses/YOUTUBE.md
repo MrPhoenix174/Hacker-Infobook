@@ -13,8 +13,8 @@
 
 <a name="full-lengthhackingcourses"></a>
 ### **Full-Length Hacking Courses**
-<img src="./images/full-lengthhackingcourses.png" alt="Preview" height="350">
-
+<!-- <img src="./images/full-lengthhackingcourses.png" alt="Preview" height="350">
+-->
 * **Автор:** LiveOverflow
 * **Язык:** 🇬🇧 (English)
 * **Формат:** Плейлист многочасовых видео (19)
@@ -23,8 +23,8 @@
 
 <a name="kalilinuxfreecoursecyberguard"></a>
 ### Kali Linux Free Course - Ethical Hacking Using Kali Linux
-<img src="./images/kalilinuxfreecoursecyberguard.png" alt="Preview" height="350">
-
+<!--<img src="./images/kalilinuxfreecoursecyberguard.png" alt="Preview" height="350">
+-->
 * **Описание:** Хороший набор видео на разные темы, ориентирован на практику. !! Курс не на en, включите субтитры !!
 
 [Смотреть плейлист](https://youtube.com/playlist?list=PLFOJ_XqzVbLMshj5eG3oFS6LP5K6I2wLE&si=1PSoTx39PKDYm-2p) 
@@ -44,7 +44,7 @@
 
 <a name="fullhackcourse2023"></a>
 ### **Полный учебный курс по этичному хакингу 2023 от нуля до мастерства**
-<img src="./images/fullhackcourse2023.png" alt="Preview" height="350">
+<!--<img src="./images/fullhackcourse2023.png" alt="Preview" height="350"> -->
 
 * **Автор:** Ethical Hacking for Beginners
 * **Язык:** RU
@@ -66,8 +66,8 @@
 # WEB
 
 <a name="fullcourseofwebhackprohack"></a>
-### **Полный курс по взлому веб-приложений: Pro Hacker**
-<img src="./images/fullcourseofwebhackprohack.png" alt="Preview" height="350">
+### **Полный курс по пентесту веб-приложений: Pro Hacker**
+<!--<img src="./images/fullcourseofwebhackprohack.png" alt="Preview" height="350">-->
 
 * **Язык:** RU
 * **Описание:** Как и другие плейлисты этого канала, это перевод курса с Udemy. Курс подходит для начала, для освоения основ. 
@@ -88,7 +88,7 @@
 
 <a name="binaryexplbyLiveOverflow1**"></a>
 ### **Binary Exploitation / Memory Corruption by LiveOverflow**
-<img src="./images/binaryexplbyLiveOverflow1.png" alt="Preview" height="350">
+<!--<img src="./images/binaryexplbyLiveOverflow1.png" alt="Preview" height="350">-->
 
 * **Автор:** LiveOverflow
 * **Язык**: EN
@@ -99,7 +99,7 @@
 
 <a name="cryptocatintrotobinexpl"></a>
 ### **Intro to Binary Exploitation (Pwn) - Practical Buffer Overflow Challenges (for beginners)**
-<img src="./images/cryptocatintrotobinexpl.png" alt="Preview" height="350">
+<!-- <img src="./images/cryptocatintrotobinexpl.png" alt="Preview" height="350"> -->
 
 * **Автор:** CryptoCat
 * **Язык:** EN
@@ -113,7 +113,7 @@
 
 <a name="reverseseasonspbctf1"></a>
 ### **Сезон ревёрса: 26.02.2017 — 14.05.2017**
-<img src="./images/reverseseasonspbctf1.png" alt="Preview" height="350">
+<!--<img src="./images/reverseseasonspbctf1.png" alt="Preview" height="350"> -->
 
 * **Автор:** SpbCTF
 * **Язык:** RU
@@ -122,8 +122,8 @@
 
 <a name="pwnseasonspbctf1"></a>
 ### **Сезон пывна: 4.10.2020 — 25.04.2021**
-<img src="./images/pwnseasonspbctf1.png" alt="Preview" height="350">
-
+<!-- <img src="./images/pwnseasonspbctf1.png" alt="Preview" height="350">
+-->
 * **Автор:** SpbCTF
 * **Язык:** RU
 
@@ -137,7 +137,7 @@
 
 <a name="reverseeng1"></a>
 ### **Reverse Engineering**
-<img src="./images/reverseeng1.png" alt="Preview" height="350">
+<!--<img src="./images/reverseeng1.png" alt="Preview" height="350">-->
 
 * **Автор:** Path Cybersec \[Slava Moskvin\]
 * **Язык:** RU
@@ -154,20 +154,20 @@
 
 <a name="aircrack-ng1"></a>
 ### **aircrack NG**
-<img src="./images/aircrack-ng1.png" alt="Preview" width=750>
-
+<!-- <img src="./images/aircrack-ng1.png" alt="Preview" width=750>
+-->
 * **Язык:** EN
-* **Описание:** Набор видео по обучению  атак на WiFi
+* **Описание:** Набор видео по обучению пентеста  WiFi
 
 [**Смотреть плейлист**](https://youtube.com/playlist?list=PLfWBR1mULstISgM9u7oi6QAQu9_x5jBt2&si=3rLrk7n-0WXvC684)
 
 
 <a name="wardriving"></a>
 ### **WARDRIVING**
-<img src="./images/wardriving.png" alt="Preview" width=370>
+<!--<img src="./images/wardriving.png" alt="Preview" width=370>-->
 * **Автор:** unit3301
 * **Язык:** RU
-* **Описание:** Атаки на WiFI, создание девайсов
+* **Описание:** Пентест WiFI, создание девайсов
 
 [**Смотреть плейлист**](https://youtube.com/playlist?list=PLDvjN80i7UFHdNrJcKR1oCPi13NRS6HZw&si=z0owa5LNqacy6yx-)
 
